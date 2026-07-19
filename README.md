@@ -27,4 +27,4 @@ If you want to run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/abdelrahmanHatem005/Ttps_Dashboard.git](https://github.com/abdelrahmanHatem005/Ttps_Dashboard.git)
+   git clone https://github.com/abdelrahmanHatem005/Tips_Dashboard.git
